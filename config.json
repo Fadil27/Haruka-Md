@@ -13,6 +13,7 @@
     "autorespond": false,
     "autoblok212": true,
     "autoread": true,
+    "autotype": true,
     "gamewaktu": 90,
     "limitCount": 25,
     "gcount": {
